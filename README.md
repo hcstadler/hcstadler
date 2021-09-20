@@ -1,3 +1,3 @@
 # hcstadler
 
-Just a sort of scratch space for now.
+- pmodenv: Create environment diff commands for PSI pmodule file
